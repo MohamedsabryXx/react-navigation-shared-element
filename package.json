@@ -55,7 +55,7 @@
     "eslint": "^7.32.0",
     "expo-module-scripts": "^2.0.0",
     "prettier": "^2.4.1",
-    "react-native-shared-element": "github:MohamedsabryXx/react-native-shared-element#main",
+    "react-native-shared-element": "git+https://github.com:MohamedsabryXx/react-native-shared-element#main",
     "react-navigation": "^4.4.4",
     "react-navigation-stack": "^2.10.4",
     "react-navigation-tabs": "^2.11.1"
@@ -63,6 +63,6 @@
   "peerDependencies": {
     "react": "*",
     "react-native": "*",
-    "react-native-shared-element": "github:MohamedsabryXx/react-native-shared-element#main"
+    "react-native-shared-element": "git+https://github.com:MohamedsabryXx/react-native-shared-element#main"
   }
 }
