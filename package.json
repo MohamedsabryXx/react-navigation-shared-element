@@ -63,6 +63,6 @@
   "peerDependencies": {
     "react": "*",
     "react-native": "*",
-    "react-native-shared-element": "*"
+    "react-native-shared-element": "github:MohamedsabryXx/react-native-shared-element#main"
   }
 }
